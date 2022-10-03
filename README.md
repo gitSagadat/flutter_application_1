@@ -1,16 +1,3 @@
-# flutter_application_1
+My flutter Weather App created for Introduce Dart language
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Design an app for android with XML code , копия](https://user-images.githubusercontent.com/112682714/193559499-4a4f7ea4-7d53-44da-b618-382df0409959.jpg)
